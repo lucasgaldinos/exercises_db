@@ -45,3 +45,4 @@ This builds an `exercises-psql.sql` file which creates and inserts all exercises
 ## Maintainers
 
 [@olliejennings](https://github.com/OllieJennings)
+https://exrx.net/
